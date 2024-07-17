@@ -1,5 +1,4 @@
 def quickSort(arr):
-    # Write your code here
     center = arr[0]
     arr = sorted(arr)
     sorted_list = [center]
